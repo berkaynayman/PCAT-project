@@ -8,7 +8,7 @@ const pageController = require('./controllers/pageController')
 
 const app = express()
 
-mongoose.connect('mongodb+srv://berkay:MX4pocvQY7gBziuz@cluster0.157rq.mongodb.net/pcat-db?retryWrites=true&w=majority', {
+mongoose.connect('mongodb://localhost:27017', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => {
