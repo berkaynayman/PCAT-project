@@ -15,9 +15,6 @@
 - method-override
 - express-fileupload
 
-<a href="https://berkay-pcat-app.herokuapp.com/" target="_blank">Goo Live</a>
-
-
 
 
 
