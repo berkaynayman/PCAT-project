@@ -26,3 +26,21 @@
 ### We are listed photos with pagination. If user want go to photo detail and there is update actions. It be photo on hover and click.
 
 ![PCAT_SS_4](https://user-images.githubusercontent.com/62603509/209192760-5cd2af8a-3e69-4a9c-80e3-dfd44f3bf27d.PNG)
+
+## 🖱 How i do using the app?
+
+#### ⚠️ Please firstly be sure have the Mongo DB.
+
+#### First clone the project.
+
+```
+git clone https://github.com/berkaynayman/PCAT-project.git
+```
+
+#### Second dependencies install and run project.
+
+```
+cd PCAT-project
+npm install
+npm start
+```
